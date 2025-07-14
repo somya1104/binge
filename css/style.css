@@ -38,8 +38,26 @@ main {
 
 h2 {
     padding: 20px;
+    color: white;
+    background-color: rgb(17, 124, 143);
 }
-
+h3 {
+    padding: 20px;
+    color: rgb(17, 124, 143);
+    text-decoration: underline;
+    
+}
+.foot{
+    padding: 10px;
+    color: white;
+    background-color: rgb(17, 124, 143);
+    overflow: hidden;
+}
+.ok
+{
+    color: white;
+    background-color: #333;
+}
 section:nth-child(even) {
     background-color: rgb(241, 241, 241);
 }
