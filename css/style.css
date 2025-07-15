@@ -49,6 +49,7 @@ h3 {
 }
 .foot{
     padding: 10px;
+    margin-bottom: 0px;
     color: white;
     background-color: rgb(17, 124, 143);
     overflow: hidden;
